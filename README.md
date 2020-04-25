@@ -1,3 +1,15 @@
+# React Laravel Task Manager
+
+### To run
+
+Clone this git repo
+Create a database and give it a name (SQL)
+Update your database settings in the .env file
+
+CLI: npm install
+CLI: php artisan serve
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
