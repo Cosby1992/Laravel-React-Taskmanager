@@ -6,10 +6,14 @@ Clone this git repo
 
 Create a database and give it a name (SQL)
 
+Clone the .env.example and rename the copy to .env
+
 Update your database settings in the .env file
 
 
 CLI: npm install
+
+CLI: npm run dev
 
 CLI: php artisan serve
 
